@@ -1,6 +1,0 @@
-flask
-tensorflow
-pillow
-matplotlib
-numpy
-reportlab
